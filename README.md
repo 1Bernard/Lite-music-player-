@@ -1,1 +1,1 @@
-# Lite music player
+# Liteplay music player
